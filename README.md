@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jose.caloca3@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/josecaloca/](https://www.linkedin.com/in/josecaloca/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
 
 - ⚡ Fun fact: **Every time I drink coffee I can't sleep for 2 days in a row**
 
