@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/josecaloca9" target="blank"><img src="https://img.shields.io/twitter/follow/josecaloca9?logo=twitter&style=for-the-badge" alt="josecaloca9" /></a> </p>
 
-- 🔭 I’m currently working on [algorithmic fairness](github.com/josecaloca/algorithmic-fairness)
+- 🔭 I’m currently working on [algorithmic fairness](https://github.com/josecaloca/algorithmic-fairness)
 
 - 🌱 I’m currently learning **OOP in Python, and macro programming in SAS**
 
