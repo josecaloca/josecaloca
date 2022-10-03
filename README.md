@@ -38,5 +38,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josecaloca&" alt="josecaloca" /></p>
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs?username=josecaloca&show_icons=true&locale=en&layout=compact)
-
