@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [algorithmic fairness](https://github.com/josecaloca/algorithmic-fairness)
 
-- 🌱 I’m currently learning **OOP in Python, and macro programming in SAS**
+- 🌱 I’m currently learning **OOP in Python, and (Data Engineering)[https://learndataengineering.com/p/associate-data-engineer-certificate]**
 
 - 👯 I’m looking to collaborate on **optimisation methods for ML models**
 
