@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning advanced topics on **OOP in Python**, while preparing a **[Data Engineering certification](https://learndataengineering.com/p/associate-data-engineer-certificate)**
 
-- 👯 I’m looking to collaborate on **Statistical methods to detect algorithmic discrimination in the ausence of protected attibutes**
+- 👯 I’m looking to collaborate on **Statistical methods to detect algorithmic bias in the absence of protected attributes**
 
 - 👨‍💻 All of my projects are available at [github.com/josecaloca](github.com/josecaloca)
 
