@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
 
-- ⚡ Fun fact: **Every time I drink coffee I can't sleep for 2 days in a row**
+- ⚡ Fun fact: **Did you know that coffee and code have a lot in common? Both keep you up all night, both can make you jittery and both have the power to turn you into a coding machine! But be warned, if you drink too much coffee while programming, you might end up with an infinite loop of insomnia. So drink responsibly, my fellow coders, and may your code be bug-free and your coffee be strong!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
