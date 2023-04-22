@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [algorithmic fairness](https://github.com/josecaloca/algorithmic-fairness)
 
-- 🌱 I’m currently learning **OOP in Python, and [Data Engineering](https://learndataengineering.com/p/associate-data-engineer-certificate)**
+- 🌱 I’m currently learning advanced topics on **OOP in Python**, while preparing a **[Data Engineering certification](https://learndataengineering.com/p/associate-data-engineer-certificate)**
 
-- 👯 I’m looking to collaborate on **optimisation methods for ML models**
+- 👯 I’m looking to collaborate on **Statistical methods to detect algorithmic discrimination in the ausence of protected attibutes**
 
 - 👨‍💻 All of my projects are available at [github.com/josecaloca](github.com/josecaloca)
 
