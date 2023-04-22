@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
 
-- ⚡ Fun fact: **Did you know that coffee and code have a lot in common? Both keep you up all night, both can make you jittery and both have the power to turn you into a coding machine! But be warned, if you drink too much coffee while programming, you might end up with an infinite loop of insomnia. So drink responsibly, my fellow coders, and may your code be bug-free and your coffee be strong!"**
+- ⚡ Fun fact: **I can't resist a good cup of coffee, but every time I indulge in this tasty brew, I turn into a sleepless zombie for two whole days! It's like my brain forgets that sleep is important and just keeps chugging along like a caffeine-fueled machine. So be warned, if you drink too much coffee while programming, you might end up with an infinite loop of insomnia. So drink responsibly, my fellow coders, and may your code be bug-free and your coffee be strong!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
