@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/josecaloca9" target="blank"><img src="https://img.shields.io/twitter/follow/josecaloca9?logo=twitter&style=for-the-badge" alt="josecaloca9" /></a> </p>
 
+- 📄  Senior Data Scientist at [ING Hubs Poland](https://inghubspoland.com/). Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
+
 - 🔭 I’m currently working on [algorithmic fairness](https://github.com/josecaloca/algorithmic-fairness)
 
 - 🌱 I’m currently learning advanced topics on **OOP in Python**, while preparing a **[Data Engineering certification](https://learndataengineering.com/p/associate-data-engineer-certificate)**
@@ -17,8 +19,6 @@
 - 💬 Ask me about **algorithmic fairness, optimisation algorithms, econometrics, machine learning, classification methods, logistic regression**
 
 - 📫 How to reach me **jose.caloca3@gmail.com**
-
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
 
 - ⚡ Fun fact: **I can't resist a good cup of coffee, but every time I indulge in this tasty brew, I turn into a sleepless zombie for two whole days! It's like my brain forgets that sleep is important and just keeps chugging along like a caffeine-fueled machine. So be warned, if you drink too much coffee while programming, you might end up with an infinite loop of insomnia. So drink responsibly, my fellow coders, and may your code be bug-free and your coffee be strong!"**
 
