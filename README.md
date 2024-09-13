@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/josecaloca9" target="blank"><img src="https://img.shields.io/twitter/follow/josecaloca9?logo=twitter&style=for-the-badge" alt="josecaloca9" /></a> </p>
 
-- 📄  Senior Data Scientist at [ING Hubs Poland](https://inghubspoland.com/). Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
+- 📄  Senior Data Scientist at [Skandinaviska Enskilda Banken ()](https://sebgroup.com/). Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
 
 - 🔭 I’m currently working on [algorithmic fairness](https://github.com/josecaloca/algorithmic-fairness)
 
-- 🌱 I’m currently learning advanced topics on **OOP in Python**, while preparing a **[Data Engineering certification](https://learndataengineering.com/p/associate-data-engineer-certificate)**
+- 🌱 I’m currently learning advanced topics on **OOP in Python**, while preparing a **[GCP Machine Learning Engineering certification](https://www.cloudskillsboost.google/paths/17)**
 
 - 👯 I’m looking to collaborate on **Statistical methods to detect algorithmic bias in the absence of protected attributes**
 
