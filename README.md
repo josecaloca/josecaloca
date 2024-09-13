@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/josecaloca9" target="blank"><img src="https://img.shields.io/twitter/follow/josecaloca9?logo=twitter&style=for-the-badge" alt="josecaloca9" /></a> </p>
 
-- 📄  Senior Data Scientist at [Skandinaviska Enskilda Banken ()](https://sebgroup.com/). Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
+- 📄  Senior Data Scientist at [Skandinaviska Enskilda Banken (SEB)](https://sebgroup.com/). Know about my experiences [here](https://www.linkedin.com/in/josecaloca/)
 
 - 🔭 I’m currently working on [algorithmic fairness](https://github.com/josecaloca/algorithmic-fairness)
 
